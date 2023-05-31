@@ -18,8 +18,13 @@ The collaborative nature of open source allows the community to contribute their
 At our core, we believe in the power of transparency to build trust and foster collaboration. We recognize that access to information about decision-making processes and resource allocation is essential for our community to engage with us fully. By prioritizing transparency, we empower our community to hold us accountable and actively participate in shaping our shared future. 
 ### We believe in Open Access to Knowledge, Science, and Technologies. 
 Open knowledge and science must be accessible to all, regardless of socio-economic status or location. By sharing knowledge openly, we create a fair environment for innovation where everyone has an equal opportunity to contribute their expertise. Open access to knowledge bridges the education gap and leads to a more informed and engaged society. Open science combats fake science and disinformation through peer-reviewed research and data sharing, ensuring only accurate and reliable information is disseminated.
-### We believe in Decentralization.
-We believe in the transformative power of open and decentralized autonomous organizations (DAOs). DAOs offer unparalleled safety and security, ensuring all members have an equal say in decision-making and protection from coercion. They are ideal for promoting sustainability and combating inaction with transparent and democratic decision-making and sustainable technology. DAOs are a powerful solution to the challenges we face, and we are committed to promoting them.
+## Our principles for action
+### Primum Non Nocere
+"Before anything, do no harm!" - We adhere to this principle borrowed from the doctors' Hippocratic oath. Our actions are planned and executed with the goal of having a positive impact on both living beings and the planet Earth. This principle serves as our north star, validating our decisions and guiding our actions. It underlines our responsibilities to humankind and summarizes our ethical behavior.
+### Decentralization.
+We believe in the transformative power of decentralization. We are convinced that centralization is a constraint on implementing a more sustainable lifestyle and way of doing business. By promoting decentralization, we involve every stakeholder in our progress toward our goals. Decentralization means that we listen to the needs of all our stakeholders, including planet Earth.
+Decentralized autonomous organizations (DAOs), a new technology based on blockchain, offer unparalleled safety and security. They ensure that all members have an equal say in decision-making and protection from coercion. DAOs are ideal for promoting sustainability and combating inaction with transparent and democratic decision-making and sustainable technology. 
+They are a powerful solution to the challenges we face, and we are committed to promoting them.
 ## The Role of Fundatia Ananke in the Blue Marble Project
 ### Fundatia Ananke as the legal wrapper of the DAO
 The Distributed Autonomous Organization (DAO) is a crucial entity in the Blue Marble project in which Fundatia Ananke is vital. 
