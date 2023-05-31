@@ -1,6 +1,6 @@
 # Manifeste Blue Marble
-## Nous voulons redonner aux gens le pouvoir de déterminer l'avenir de l'humanité. 
-La Fondation Ananke est une fondation européenne visionnaire engagée à promouvoir un changement positif dans le monde. Leur mission est d'inspirer et de donner les moyens aux individus et aux entreprises d’adopter des pratiques durables qui profitent à l'environnement, à la société et à l'économie dans son ensemble. En embrassant les principes d'un esprit ouvert, d'un accès ouvert aux sciences et technologies, de l’open source, et de la décentralisation, ils mènent la charge vers un avenir plus équitable et résilient.
+## Nous donnons les moyens aux gens de créer une version plus durable de leur mode de vie et de leur façon de faire des affaires. 
+Les gens veulent un mode de vie plus durable et avoir un impact, mais ne savent pas par où commencer. La communauté autonome décentralisée de Blue Marble permet aux individus de collaborer sur des projets de durabilité, créant ainsi un mode de vie et des pratiques commerciales durables. Ainsi, les gens peuvent être fiers de l'impact positif qu'ils ont sur le monde et de l'héritage qu'ils laisseront aux générations futures.
 ### La durabilité est le défi ultime de l'humanité.
 En tant que communauté mondiale, nous devons affronter le défi du développement durable avec urgence et détermination. Les conséquences pour avoir négligé les avertissements des scientifiques sont désormais impossibles à ignorer. En réponse, les Nations Unies ont établi les 17 objectifs de développement durable en 2015, mais les progrès ont été lents. Le sort de notre planète et de ses habitants repose sur notre capacité à atteindre ces objectifs, mais nous sommes confrontés à des obstacles importants.
 * L'égalité des sexes est plus menacée que jamais.
@@ -36,3 +36,9 @@ Le projet Blue Marble est une initiative visionnaire qui vise à créer une comm
 En rejoignant le projet Blue Marble, vous ferez partie d'un mouvement qui fait une vraie différence. 
 Alors n'attendez plus. Faisons le changement aujourd'hui ensemble !
 
+### Note:
+
+La Fondation Ananke est une fondation européenne visionnaire engagée à promouvoir un changement positif dans le monde. Leur mission est d'inspirer et de donner les moyens aux individus et aux entreprises d’adopter des pratiques durables qui profitent à l'environnement, à la société et à l'économie dans son ensemble. En embrassant les principes d'un esprit ouvert, d'un accès ouvert aux sciences et technologies, de l’open source, et de la décentralisation, ils mènent la charge vers un avenir plus équitable et résilient.
+
+La Blue Marble est une photographie de la Terre prise le 7 décembre 1972 depuis une distance d'environ 29 000 kilomètres de la surface de la planète. Prise par l'équipage de la navette spatiale Apollo 17 en route vers la Lune, c'est l'une des images les plus reproduites de l'histoire.
+Pour les astronautes, la Terre légèrement gibbeuse avait l'apparence et la taille d'une bille en verre, d'où le nom.
