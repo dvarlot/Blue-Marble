@@ -20,12 +20,12 @@ Achieving a sustainable way of life is not just a choice but a necessity for our
 
 Governments are limited by their jurisdiction and the short-sightedness of their re-election cycles. We need a long-term and global approach that transcends political boundaries to address sustainability concerns.
 
- On the other hand, corporations prioritize profits above all else, which often conflicts with the interests of the environment and the people. Therefore, their efforts toward Environment and Social Governance have been insufficient and evaluated based on their immediate financial impact.
+On the other hand, corporations prioritize profits above all else, which often conflicts with the interests of the environment and the people. Therefore, their efforts toward Environment and Social Governance have been insufficient and evaluated based on their immediate financial impact.
 
 As individuals and communities, it is up to us to take action towards a sustainable future. We must hold our leaders accountable and push for comprehensive and effective policies. We must also make conscious choices in our daily lives and support businesses that prioritize sustainability. 
 Together, people can create a better world for themselves and future generations.
-## We are building the enabling tools for decentralized autonomous decision-making by the people 
-### We need to listen back to the stakeholders of humankind
+## We are building the enabling tools for decentralized autonomous decision-making by the people. 
+### We need to listen back to the stakeholders of humankind.
 The future of humankind and our planet rests in the hands of every individual. We are all responsible for taking action toward sustainability, and we cannot do it alone. 
 It’s time to empower ourselves and regain control of our decisions. By embracing decentralized decision-making, we can create a new dynamic and give voice to every person. 
 Let’s join forces and work towards a more sustainable future where everyone’s voice is heard, and everyone’s actions count. Together, we can make a difference and create a world our children will be proud to inherit.
@@ -33,7 +33,7 @@ Let’s join forces and work towards a more sustainable future where everyone’
 With the advent of advanced technology, we have witnessed a remarkable breakthrough in organizational structures. Technology has become a powerful, liberating tool, enabling every participant to express their opinions without fear and facilitating decision-making through consensus, taking every voice into account. 
 This new organizational model, known as DAO - Decentralized Autonomous Organization, utilizes blockchain technology to create a safe and collaborative environment for everyone. 
 For the first time in history, people can make decisions and take action, becoming the masters of their own destiny. The power of DAO lies in its ability to decentralize decision-making, ensuring that no single individual or group has excessive control. This empowers individuals to participate in decision-making processes and ensures every voice is heard. As a result, DAO revolutionizes how organizations operate, creating a more inclusive and democratic world for us all.
-### DAO changes our relationship with governance
+### DAO changes our relationship with governance.
 The emergence of DAO has revolutionized the way we approach governance. Gone are the days of relying on a select group of individuals to make decisions on our behalf. With DAO, the power is returned to the people, allowing for a more democratic and transparent process. This shift has not only solidified our freedom but has also broken our dependence on centralized authorities. The days of serving the interests of a select few are over, and it’s time for everyone to have a voice. 
 ### Breaking the Shackles of Short-Term Thinking.
 The vicious cycle of short-term thinking is a threat to the sustainability of our future. We must break free from this chain and embrace a vision of hope and progress. To achieve this, we must shift power from shareholders to stakeholders. This will enable us to escape the tyranny of profit-seeking and prioritize the needs of all individuals. By flattening hierarchies and empowering decentralized decision-making, we create a platform for people to express their humanity and contribute to a brighter future. This is the ultimate dream of every constitution in history, and now is the time to make it a reality. 
