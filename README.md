@@ -13,4 +13,4 @@ We believe in Open Source, so all comments and proposal are welcome and will be 
 
 ### [Version française](https://github.com/dvarlot/Blue-Marble/tree/main/documents%20en%20francais)
 - [Manifeste Blue Marble](https://github.com/dvarlot/Blue-Marble/blob/main/documents%20en%20francais/Manifeste%20Blue%20Marble.md)
-- [La fondation Ananke]()
+- [La fondation Ananke](https://github.com/dvarlot/Blue-Marble/blob/main/documents%20en%20francais/la%20fondation%20Ananke.md)
