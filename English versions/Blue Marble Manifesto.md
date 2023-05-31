@@ -47,7 +47,8 @@ The Blue Marble project is a visionary initiative that aims to create a communit
 
 By joining the Blue Marble project, you will be part of a movement making a real difference. So don’t wait any longer. Let’s make a change today!
 
-Notes:
+### Notes:
+
 [Fundatia Ananke](https://github.com/dvarlot/Blue-Marble/blob/main/English%20versions/Fundatia%20Ananke.md) is a visionary European foundation committed to driving positive change in the world. Their mission is to inspire and empower individuals and businesses to adopt sustainable practices that benefit the environment, society, and the economy. By embracing the principles of an open mind, open source, open access to science and technologies, and decentralization, they lead the charge toward a more equitable and resilient future. 
 
 ***The Blue Marble*** is a photograph of [Earth](https://en.wikipedia.org/wiki/Earth) taken on December 7, 1972, from a distance of around 29,000 kilometers (18,000 miles) from the planet's surface. Taken by the crew of the [Apollo 17](https://en.wikipedia.org/wiki/Apollo_17) spacecraft on its way to the [Moon](https://en.wikipedia.org/wiki/Moon), it is one of the most reproduced images in history.
